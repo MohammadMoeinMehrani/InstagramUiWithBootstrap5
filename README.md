@@ -11,6 +11,10 @@
 
 - باکس استوری کاربران
 
+![2021-09-02 12_36_44-Window](https://user-images.githubusercontent.com/89864721/131852686-cfcefc8e-df5f-4edc-a261-7b8de993aff0.png)
+
+- هدر سایت
+
 ![2021-09-02 12_35_24-Window](https://user-images.githubusercontent.com/89864721/131807277-7dfdee6f-004a-4f1a-b2ca-5a6f73a20959.png)
 
 - باکس پُست عکس و ویدیو
